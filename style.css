@@ -457,7 +457,7 @@ a {
 .about-section h2 {
     font-size: 3rem;
     text-transform: uppercase;
-    text-align: center;
+    /* text-align: center; */
     padding-top: 150px;
     padding-bottom: 50px;
     color: #7cf03d;
