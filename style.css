@@ -1405,3 +1405,9 @@ h2 span {
         margin: 10px 0;
     }
 }
+
+.btn:hover {
+    background: transparent;
+    color: #7cf03d;
+    box-shadow: none;
+}
